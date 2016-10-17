@@ -1,0 +1,6 @@
+c:\users\sebe\documents\visual studio 2015\Projects\Labb01\bin\Debug\Labb01.exe.config
+c:\users\sebe\documents\visual studio 2015\Projects\Labb01\bin\Debug\Labb01.exe
+c:\users\sebe\documents\visual studio 2015\Projects\Labb01\bin\Debug\Labb01.pdb
+c:\users\sebe\documents\visual studio 2015\Projects\Labb01\obj\Debug\Labb01.csprojResolveAssemblyReference.cache
+c:\users\sebe\documents\visual studio 2015\Projects\Labb01\obj\Debug\Labb01.exe
+c:\users\sebe\documents\visual studio 2015\Projects\Labb01\obj\Debug\Labb01.pdb
