@@ -1,0 +1,6 @@
+c:\users\sebe\documents\visual studio 2015\Projects\Labb08G\bin\Debug\Labb08G.exe.config
+c:\users\sebe\documents\visual studio 2015\Projects\Labb08G\bin\Debug\Labb08G.exe
+c:\users\sebe\documents\visual studio 2015\Projects\Labb08G\bin\Debug\Labb08G.pdb
+c:\users\sebe\documents\visual studio 2015\Projects\Labb08G\obj\Debug\Labb08G.csprojResolveAssemblyReference.cache
+c:\users\sebe\documents\visual studio 2015\Projects\Labb08G\obj\Debug\Labb08G.exe
+c:\users\sebe\documents\visual studio 2015\Projects\Labb08G\obj\Debug\Labb08G.pdb
