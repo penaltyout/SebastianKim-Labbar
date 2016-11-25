@@ -1,0 +1,6 @@
+c:\users\sebe\documents\visual studio 2015\Projects\Debugging01\bin\Debug\Debugging01.exe.config
+c:\users\sebe\documents\visual studio 2015\Projects\Debugging01\obj\Debug\Debugging01.csprojResolveAssemblyReference.cache
+C:\Users\SEBE\Documents\Visual Studio 2015\Projects\Debugging01\bin\Debug\Debugging01.exe
+C:\Users\SEBE\Documents\Visual Studio 2015\Projects\Debugging01\bin\Debug\Debugging01.pdb
+C:\Users\SEBE\Documents\Visual Studio 2015\Projects\Debugging01\obj\Debug\Debugging01.exe
+C:\Users\SEBE\Documents\Visual Studio 2015\Projects\Debugging01\obj\Debug\Debugging01.pdb
